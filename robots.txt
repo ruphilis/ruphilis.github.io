@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruphilis.github.io/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/app/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/assets/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/css/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/data/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/includes/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/item/sitemap.html.gz
+Sitemap: https://ruphilis.github.io/src/sitemap.html.gz
